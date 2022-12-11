@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera F1",
+        "img": "./images/remeraf1.jpg",
+        "precio": 1500,
+        "cantidad":1
+    },
+    {
+        "id": 2,
+        "nombre": "Gorra F1",
+        "img": "./images/gorraf1.jpg",
+        "precio": 900,
+        "cantidad":1
+    },
+    {
+        "id": 3,
+        "nombre": "Buzo F1",
+        "img": "./images/buzof1.jpg",
+        "precio": 3500,
+        "cantidad":1
+    },
+    {
+        "id": 4,
+        "nombre": "Taza F1",
+        "img": "./images/tazaf1.png",
+        "precio": 520,
+        "cantidad":1
+    },
+    {
+        "id": 5,
+        "nombre": "Reloj F1",
+        "img": "./images/relojf1.jpg",
+        "precio": 280,
+        "cantidad":1
+    },
+    {
+        "id": 6,
+        "nombre": "Sweater F1",
+        "img": "./images/sweatersf1.jpg",
+        "precio": 2200,
+        "cantidad":1
+    },
+    {
+        "id": 7,
+        "nombre": "Mochila F1",
+        "img": "./images/mochilaf1.jpg",
+        "precio": 990,
+        "cantidad":1
+    },
+    {
+        "id": 8,
+        "nombre": "Llavero F1",
+        "img": "./images/llaverof1.jpg",
+        "precio": 90,
+        "cantidad":1
+    }
+]
